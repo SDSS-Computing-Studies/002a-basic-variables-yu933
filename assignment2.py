@@ -1,3 +1,4 @@
-fname ="Mr"
-Iname ="Yang"
-print(Iname)
+fname = "Mr"
+print(fname)
+lname = "Yang"
+print(lname)

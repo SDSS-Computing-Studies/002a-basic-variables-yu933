@@ -6,7 +6,7 @@ Objectives:
 * To retrieve basic variable values
 * To display the contents of a variable using print()
 
-In this lesson you will learn the basics of working with variables. Variables are extremely important in code, as they allow programs to be reusable for different applications.  For example, we might have a simple piece of code that adds 2 numbers together.  It would not be very effective for the code to only work for 1 + 1.  Instead, we want to be able to add any number to any other number.  In this case, we might use x + y where x and y are 2 variables representing the 2 numbers.
+In this lesson you will learn the basics of working with variables. Variables are extremely important in code, as they allow programs to be reusable for different applications.  For example, we might have a simple piece of code that adds 2 numbers together.  It would not be very effective for the code to only work for 1 + 1.  Instead, we want to be able to add any number to any other number.  In this case, we might use x + y where x and y are 2 variables represent ing the 2 numbers.
 
 **Variable naming**:
 * Variable names can be very short (a or b) or descriptive (EnglishGrade). Descriptive names are usually better as it makes understanding your code easier.
